@@ -1,0 +1,10 @@
+{
+  "name": "Tamil Nadu Agricultural",
+  "description": "An AI-driven decision support system offering farmers personalized crop recommendations, soil analysis, weather forecasts, market prices, and disease detection.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
