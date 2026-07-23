@@ -91,6 +91,6 @@ Tamil Nadu Agricultural Hub is a simple and easy-to-use web application that bri
 **Praveen Kumar M**
 
 
-Website Link : https://tamilnadu-agricultural-hub.onrender.com
+View my website in : https://tamilnadu-agricultural-hub.onrender.com
 
 
