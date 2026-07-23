@@ -1,4 +1,4 @@
-# Tamil Nadu Agricultural Hub
+### Tamil Nadu Agricultural Hub
 
 ## Overview
 
@@ -87,7 +87,7 @@ Tamil Nadu Agricultural Hub is a simple and easy-to-use web application that bri
 
 ## Author
 
-**Praveen Kumar**
+**Praveen Kumar M**
 
 Deployment link : https://tamilnadu-agricultural-hub.onrender.com
 
